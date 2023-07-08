@@ -80,10 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ph.D. Student"
+  name             : "Tianshu Zhang"
   avatar           : "profile.png"
-  bio              : "Computer Science & Engineering
-                      The Ohio State University"
+  bio              : "Ph.D. Student, Computer Science & Engineering, The Ohio State University"
   location         : "Columbus, OH"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
