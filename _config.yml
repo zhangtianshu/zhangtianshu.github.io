@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Tianshu Zhang"
-  avatar           : "images/MicrosoftTeams-image.png"
+  avatar           : "homepage.png"
   bio              : "PhD Student @ The Ohio State University"
   location         : "Columbus, OH"
   employer         :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/zhangtianshu"
+  github           : "zhangtianshu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/tianshu-zhang-6070a1240"
+  linkedin         : "tianshu-zhang-6070a1240"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/Tianshu_OSU"
+  twitter          : "Tianshu_OSU"
   vine             :
   weibo            :
   xing             :
