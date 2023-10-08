@@ -13,11 +13,11 @@ I am a third-year Ph.D. student in Natural Language Processing group at The Ohio
 
 My primary research lies in the area of natural language processing and machine learning. Specifically:
 
-- Natural Language Interface:
-- Federated Learning:
-- Large Language Models:
+- **Natural Language Interface**:
+- **Federated Learning**:
+- **Large Language Models**:
 
-I'm actively looking for collaborators. For undergraduates, masters, feel free to drop me an email if you are interested in working with me!
+*I'm actively looking for collaborators. For undergraduates, masters, feel free to drop me an email if you are interested in working with me!*
 
 News
 ======
@@ -27,36 +27,36 @@ News
 - 05/2023: 1 paper is accepted at ACL 2023.
 - 06/2022: Won the 3rd place in the Alexa Prize TaskBot Challenge.
 - 05/2022: Excited to start my internship at IBM T. J. Watson Research Center (New York) and our paper was accepted at ACL 2023.
+- 666: Our team has been selected from 100 tem...
 
 Publications
 ======
 - [Exploring Chain-of-Thought Style Prompting for Text-to-SQL]()
-
-  Chang-You Tai, Ziru Chen, Tianshu Zhang, Xiang Deng, Huan Sun.
-  
-  EMNLP 2023 (Long)
+  <br>Chang-You Tai, Ziru Chen, **Tianshu Zhang**, Xiang Deng, Huan Sun.
+  <br>EMNLP 2023 (Long)
 - [Roll Up Your Sleeves: Working with a Collaborative and Engaging Task-Oriented Dialogue System]()
-
-  Lingbo Mo, Shijie Chen, Ziru Chen, Xiang Deng, Ashley Lewis, Sunit Singh, Samuel Stevens, Chang-You Tai, Zhen Wang, Xiang Yue, Tianshu Zhang, Yu Su, Huan Sun.
-  
-  SIGDIAL 2023 (Demo)
+  <br>Lingbo Mo, Shijie Chen, Ziru Chen, Xiang Deng, Ashley Lewis, Sunit Singh, Samuel Stevens, Chang-You Tai, Zhen Wang, Xiang Yue, **Tianshu Zhang**, Yu Su, Huan Sun.
+  <br>SIGDIAL 2023 (Demo)
 - [Federated Learning for Semantic Parsing: Task Formulation, Evaluation Setup, New Algorithms]()
-
-  Tianshu Zhang, Changchang Liu, Wei-Han Lee, Yu Su, Huan Sun.
-  
-  ACL 2023 (Long)
+  <br>**Tianshu Zhang**, Changchang Liu, Wei-Han Lee, Yu Su, Huan Sun.
+  <br>ACL 2023 (Long)
 - [Bootstrapping a User-Centered Task-Oriented Dialogue System]() [Amazon Science]() [OSU CSE]() [OSU CoE]() [OSU TDAI]()
-
-  Shijie Chen*, Ziru Chen*, Xiang Deng, Ashley Lewis, Lingbo Mo, Samuel Stevens, Zhen Wang, Xiang Yue, Tianshu Zhang, Yu Su, Huan Sun. (* equal contribution)
-
-  Alexa Prize Taskbot Challenge 2022 (Long)
+  <br>Shijie Chen*, Ziru Chen*, Xiang Deng, Ashley Lewis, Lingbo Mo, Samuel Stevens, Zhen Wang, Xiang Yue, **Tianshu Zhang**, Yu Su, Huan Sun. (* equal contribution)
+  <br>Alexa Prize Taskbot Challenge 2022 (Long)
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 Talks
 ======
-06/2023: LLMs
-05/2023: FL
+- 06/2023: LLMs
+- 05/2023: FL, ICLCIE
+
+Contact
+======
+
+Email: [LAST_NAME].11535@osu.edu
+
+Feel free to contact me if you are interested in my research or want to discuss relevant research topic or potential collaborations :)
 
 A data-driven personal website
 ======
