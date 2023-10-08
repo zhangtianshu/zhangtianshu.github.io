@@ -19,7 +19,7 @@ My primary research lies in the area of natural language processing and machine 
 
 News
 ======
-- [10/2023]: 1 paper accepted at EMNLP 2023.
+- 10/2023: 1 paper accepted at EMNLP 2023.
 - [07/2023]: Our TacoBot report is accepted as a demo paper at SIGDIAL 2023.
 - [06/2023]: Give a talk: 
 - [05/2023]: 1 paper is accepted at ACL 2023.
@@ -28,7 +28,8 @@ News
 
 Publications
 ======
-- [Exploring Chain-of-Thought Style Prompting for Text-to-SQL]() EMNLP 23
+- [Exploring Chain-of-Thought Style Prompting for Text-to-SQL]()
+  EMNLP 23
 - [Roll Up Your Sleeves: Working with a Collaborative and Engaging Task-Oriented Dialogue System]() SIGDIAL 23 (Demo)
 - [Federated Learning for Semantic Parsing: Task Formulation, Evaluation Setup, New Algorithms]() ACL 23
 - [Bootstrapping a User-Centered Task-Oriented Dialogue System]() [Amazon Science]() [OSU CSE]() [OSU CoE]() [OSU TDAI]() Alexa Prize Taskbot Challenge 2022 (Long)
