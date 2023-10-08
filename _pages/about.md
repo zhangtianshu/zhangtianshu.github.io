@@ -17,6 +17,8 @@ My primary research lies in the area of natural language processing and machine 
 - Federated Learning:
 - Large Language Models:
 
+I'm actively looking for collaborators. For undergraduates, masters, feel free to drop me an email if you are interested in working with me!
+
 News
 ======
 - 10/2023: 1 paper accepted at EMNLP 2023.
