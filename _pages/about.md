@@ -8,29 +8,30 @@ redirect_from:
   - /about.html
 ---
 Hello!
+
 I am a third-year Ph.D. student in Natural Language Processing group at The Ohio State University. I am fortunate to be advised by Prof. [Huan Sun](http://web.cse.ohio-state.edu/~sun.397/). Previously, I did my internship at IBM Research (in 2021). Prior to OSU, I received B.S. in CSE from University of Electronic Science and Technology of China.
 
 My primary research lies in the area of natural language processing and machine learning. Specifically:
 
-1. Natural Language Interface:
-2. Federated Learning:
-3. Large Language Models:
+- Natural Language Interface:
+- Federated Learning:
+- Large Language Models:
 
 News
 ======
-10/2023: 1 paper accepted at EMNLP 2023.
-07/2023: Our TacoBot report is accepted as a demo paper at SIGDIAL 2023.
-06/2023: Give a talk: 
-05/2023: 1 paper is accepted at ACL 2023.
-06/2022: Won the 3rd place in the Alexa Prize TaskBot Challenge.
-05:2022: Excited to start my internship at IBM T. J. Watson Research Center (New York) and our paper was accepted at ACL 2023.
+- [10/2023]: 1 paper accepted at EMNLP 2023.
+- [07/2023]: Our TacoBot report is accepted as a demo paper at SIGDIAL 2023.
+- [06/2023]: Give a talk: 
+- [05/2023]: 1 paper is accepted at ACL 2023.
+- [06/2022]: Won the 3rd place in the Alexa Prize TaskBot Challenge.
+- [05:2022]: Excited to start my internship at IBM T. J. Watson Research Center (New York) and our paper was accepted at ACL 2023.
 
 Publications
 ======
-EMNLP 23
-SIGDIAL 23 (Demo)
-ACL 23
-Alexa Prize Taskbot Challenge 2022 (Long)
+- [Exploring Chain-of-Thought Style Prompting for Text-to-SQL]() EMNLP 23
+- [Roll Up Your Sleeves: Working with a Collaborative and Engaging Task-Oriented Dialogue System]() SIGDIAL 23 (Demo)
+- [Federated Learning for Semantic Parsing: Task Formulation, Evaluation Setup, New Algorithms]() ACL 23
+- [Bootstrapping a User-Centered Task-Oriented Dialogue System]() [Amazon Science]() [OSU CSE]() [OSU CoE]() [OSU TDAI]() Alexa Prize Taskbot Challenge 2022 (Long)
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
