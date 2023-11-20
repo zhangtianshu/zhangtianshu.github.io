@@ -36,7 +36,7 @@ Publications
   <br>arXiv 2023
   <br>[[Project Page]](https://osu-nlp-group.github.io/TableLlama/) [[Huggingface Models]](https://huggingface.co/osunlp/TableLlama/) [[Huggingface Dataset]](https://osu-nlp-group.github.io/TableLlama/) [[Code]](https://osu-nlp-group.github.io/TableLlama/)
 - [Exploring Chain-of-Thought Style Prompting for Text-to-SQL](https://arxiv.org/abs/2305.14215)
-  <br>Chang-You Tai* , Ziru Chen* , **Tianshu Zhang**, Xiang Deng, Huan Sun. (* equal contribution)
+  <br>Chang-You Tai*, Ziru Chen*, **Tianshu Zhang**, Xiang Deng, Huan Sun. (* equal contribution)
   <br>EMNLP 2023 (Long)
 - [Roll Up Your Sleeves: Working with a Collaborative and Engaging Task-Oriented Dialogue System](https://arxiv.org/abs/2307.16081)
   <br>Lingbo Mo, Shijie Chen, Ziru Chen, Xiang Deng†, Ashley Lewis†, Sunit Singh†, Samuel Stevens†, Chang-You Tai†, Zhen Wang†, Xiang Yue†, **Tianshu Zhang**†, Yu Su, Huan Sun. († in alphabetical order)
@@ -45,7 +45,7 @@ Publications
   <br>**Tianshu Zhang**, Changchang Liu, Wei-Han Lee, Yu Su, Huan Sun.
   <br>ACL 2023 (Long)
 - [Bootstrapping a User-Centered Task-Oriented Dialogue System](https://arxiv.org/abs/2207.05223) [[Amazon Science]](https://www.amazon.science/alexa-prize/taskbot-challenge/2021) [[OSU CSE]](https://cse.osu.edu/news/2022/06/osu-tacobot-team-won-third-place-honor-inaugural-alexa-prize-taskbot-challenge) [[OSU CoE]](https://engineering.osu.edu/news/2022/07/buckeyes-excel-amazon-alexa-prize-taskbot-challenge) [[OSU TDAI]](https://tdai.osu.edu/news/tdai-professors-and-team-emerge-one-top-performers-inaugural-alexa-prize-taskbot-challenge)
-  <br>Shijie Chen* , Ziru Chen* , Xiang Deng†, Ashley Lewis†, Lingbo Mo†, Samuel Stevens†, Zhen Wang†, Xiang Yue†, **Tianshu Zhang**†, Yu Su, Huan Sun. (* equal contribution, † in alphabetical order)
+  <br>Shijie Chen*, Ziru Chen*, Xiang Deng†, Ashley Lewis†, Lingbo Mo†, Samuel Stevens†, Zhen Wang†, Xiang Yue†, **Tianshu Zhang**†, Yu Su, Huan Sun. (* equal contribution, † in alphabetical order)
   <br>Alexa Prize Taskbot Challenge 2022 (Long)
 
 
