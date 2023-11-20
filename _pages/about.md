@@ -13,9 +13,9 @@ I am a third-year Ph.D. student in Natural Language Processing group at The Ohio
 
 My primary research lies in the area of natural language processing and machine learning. Specifically:
 
-- **Natural Language Interface**:building advanced natural language interfaces to tables and relational databases (a.k.a. semantic parsing, table QAs).
-- **Learning Paradigm**:instruction tuning and federated learning.
-- **Large Language Models**:(pre-)training, evaluation, analysis and data engineering.
+- **Natural Language Interface**: building advanced natural language interfaces to tables and relational databases (a.k.a. semantic parsing, table QAs).
+- **Learning Paradigm**: instruction tuning and federated learning.
+- **Large Language Models**: (pre-)training, evaluation, analysis and data engineering.
 
 *I'm actively looking for collaborators. Feel free to drop me an email if you are interested in working with me!*
 
@@ -24,7 +24,7 @@ News
 - 11/2023: Check out our new preprint: [TableLlama: Towards Open Large Generalist Models for Tables](https://osu-nlp-group.github.io/TableLlama/).
 - 10/2023: 1 paper accepted at EMNLP 2023.
 - 07/2023: 1 paper is accepted as a demo paper at SIGDIAL 2023.
-- 06/2023: Give a talk: Unveiling Unveil the Mystery of LLMs in The Ohio State University, College of Education.
+- 06/2023: Give a talk: Unveiling Unveil the Mystery of LLMs at College of Education (OSU).
 - 05/2023: 1 paper is accepted at ACL 2023.
 - 06/2022: Our team won the 3rd place in the Alexa Prize TaskBot Challenge ($50K prize).
 - 05/2022: Excited to start my internship at IBM T. J. Watson Research Center (New York) and our paper was accepted at ACL 2023.
@@ -34,7 +34,7 @@ Publications
 - [TableLlama: Towards Open Large Generalist Models for Tables](https://arxiv.org/abs/2311.09206)
   <br>**Tianshu Zhang**, Xiang Yue, Yifei Li, Huan Sun.
   <br>arXiv 2023
-  <br>[Project Page](https://osu-nlp-group.github.io/TableLlama/)[Huggingface Models](https://huggingface.co/osunlp/TableLlama/)[Huggingface Dataset(https://osu-nlp-group.github.io/TableLlama/)[Code](https://osu-nlp-group.github.io/TableLlama/)
+  <br>[Project Page](https://osu-nlp-group.github.io/TableLlama/)[Huggingface Models](https://huggingface.co/osunlp/TableLlama/)[Huggingface Dataset](https://osu-nlp-group.github.io/TableLlama/)[Code](https://osu-nlp-group.github.io/TableLlama/)
 - [Exploring Chain-of-Thought Style Prompting for Text-to-SQL](https://arxiv.org/abs/2305.14215)
   <br>Chang-You Tai*, Ziru Chen*, **Tianshu Zhang**, Xiang Deng, Huan Sun. (* equal contribution)
   <br>EMNLP 2023 (Long)
@@ -59,7 +59,7 @@ Talks
 Contact
 ======
 
-Email: [LAST_NAME].11535@osu.edu
+Email: zhang.11535 AT osu DOT edu
 
 Feel free to contact me if you are interested in my research or want to discuss relevant research topic or potential collaborations :)
 
