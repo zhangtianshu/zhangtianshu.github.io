@@ -3,19 +3,5 @@ main:
 
   - title: "Home"
     url: /home/    
-    
-  - title: "Background"
-    url: /background/
-
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Service"
-    url: /service/    
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Others"
-    url: /others/    
+      
     
