@@ -34,7 +34,7 @@ Publications
 - [TableLlama: Towards Open Large Generalist Models for Tables](https://arxiv.org/abs/2311.09206)
   <br>**Tianshu Zhang**, Xiang Yue, Yifei Li, Huan Sun.
   <br>arXiv 2023
-  <br>[[Project Page]](https://osu-nlp-group.github.io/TableLlama/) [[Huggingface Models]](https://huggingface.co/datasets/osunlp/TableLlama) [[Huggingface Dataset]](https://huggingface.co/datasets/osunlp/TableInstruct/) [[Code]](https://github.com/OSU-NLP-Group/TableLlama/)
+  <br>[[Project Page]](https://osu-nlp-group.github.io/TableLlama/) [[Huggingface Models]](https://huggingface.co/osunlp/TableLlama/) [[Huggingface Dataset]](https://huggingface.co/datasets/osunlp/TableInstruct/) [[Code]](https://github.com/OSU-NLP-Group/TableLlama/)
 - [Exploring Chain-of-Thought Style Prompting for Text-to-SQL](https://arxiv.org/abs/2305.14215)
   <br>Chang-You Tai* , Ziru Chen* , **Tianshu Zhang**, Xiang Deng, Huan Sun. (* equal contribution)
   <br>EMNLP 2023 (Long)
