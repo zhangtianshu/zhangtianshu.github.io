@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tianshu Zhang"
+title                    : "Tianshu Zhang's Website"
 title_separator          : "-"
 name                     : &name "Tianshu Zhang"
 description              : &description "personal description"
