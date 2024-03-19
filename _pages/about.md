@@ -21,8 +21,8 @@ My primary research lies in the area of natural language processing and machine 
 
 News
 ======
-- 11/2023: Check out our new preprint: [TableLlama: Towards Open Large Generalist Models for Tables](https://osu-nlp-group.github.io/TableLlama/).
 - 03/2024: 1 paper is accepted at NAACL 2024.
+- 11/2023: Check out our new preprint: [TableLlama: Towards Open Large Generalist Models for Tables](https://osu-nlp-group.github.io/TableLlama/).
 - 10/2023: 1 paper is accepted at EMNLP 2023.
 - 07/2023: 1 paper is accepted as a demo paper at SIGDIAL 2023.
 - 06/2023: Give a talk: Unveiling Unveil the Mystery of LLMs at College of Education (OSU).
