@@ -22,6 +22,7 @@ My primary research lies in the area of natural language processing and machine 
 News
 ======
 - 11/2023: Check out our new preprint: [TableLlama: Towards Open Large Generalist Models for Tables](https://osu-nlp-group.github.io/TableLlama/).
+- 03/2024: 1 paper is accepted at NAACL 2024.
 - 10/2023: 1 paper is accepted at EMNLP 2023.
 - 07/2023: 1 paper is accepted as a demo paper at SIGDIAL 2023.
 - 06/2023: Give a talk: Unveiling Unveil the Mystery of LLMs at College of Education (OSU).
@@ -33,7 +34,7 @@ Publications
 ======
 - [TableLlama: Towards Open Large Generalist Models for Tables](https://arxiv.org/abs/2311.09206)
   <br>**Tianshu Zhang**, Xiang Yue, Yifei Li, Huan Sun.
-  <br>arXiv 2023
+  <br>NAACL 2024 (long)
   <br>[[Project Page]](https://osu-nlp-group.github.io/TableLlama/) [[Huggingface Models]](https://huggingface.co/osunlp/TableLlama/) [[Huggingface Dataset]](https://huggingface.co/datasets/osunlp/TableInstruct/) [[Code]](https://github.com/OSU-NLP-Group/TableLlama/)
 - [Exploring Chain-of-Thought Style Prompting for Text-to-SQL](https://arxiv.org/abs/2305.14215)
   <br>Chang-You Tai* , Ziru Chen* , **Tianshu Zhang**, Xiang Deng, Huan Sun. (* equal contribution)
