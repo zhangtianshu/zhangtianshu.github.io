@@ -24,7 +24,7 @@ News
 - 06/2025: 1 paper is accepted at VLDB 2025.
 - 06/2025: 1 paper is accepted at ICML 2025 Workshop WCUA.
 - 05/2024: Excited to start my internship at Adobe (San Jose)!
-- 03/2024: 1 paper is accepted at NAACL 2024 as an oral paper(145/2434=6.0%)!.
+- 03/2024: 1 paper is accepted at NAACL 2024 as an oral paper(145/2434=6.0%)!🔥🔥🔥.
 - 11/2023: Check out our new preprint: [TableLlama: Towards Open Large Generalist Models for Tables](https://osu-nlp-group.github.io/TableLlama/).
 - 10/2023: 1 paper is accepted at EMNLP 2023.
 - 07/2023: 1 paper is accepted as a demo paper at SIGDIAL 2023.
@@ -41,9 +41,9 @@ Publications
 - [AgentSearchBench: Evaluating Agentic Search with Agent-as-a-Judge]()
   <br>Boyu Gou, Zanming Huang, Yuting Ning, Yu Gu, Michael Lin, Botao Yu, Andrei Kopanev, Weijian Qi, Yiheng Shu, Jiaman Wu, Chan Hee Song, Bernal Jimenez Gutierrez, Yifei Li, Zeyi Liao, Hanane Nour Moussa, **Tianshu Zhang**, Jian Xie, Tianci Xue, Shijie Chen, Boyuan Zheng, Kai Zhang, Zhaowei Cai, Viktor Rozgic, Morteza Ziyadi, Huan Sun, Yu Su.
   <br>ICML 2025 Workshop WCUA 
-- [TableLlama: Towards Open Large Generalist Models for Tables](https://arxiv.org/abs/2311.09206)
+- [TableLlama: Towards Open Large Generalist Models for Tables](https://arxiv.org/abs/2311.09206)🔥🔥🔥
   <br>**Tianshu Zhang**, Xiang Yue, Yifei Li, Huan Sun.
-  <br>NAACL 2024 (long)
+  <br>NAACL 2024 (long, oral)
   <br>[[Project Page]](https://osu-nlp-group.github.io/TableLlama/) [[Huggingface Models]](https://huggingface.co/osunlp/TableLlama/) [[Huggingface Dataset]](https://huggingface.co/datasets/osunlp/TableInstruct/) [[Code]](https://github.com/OSU-NLP-Group/TableLlama/)
 - [Exploring Chain-of-Thought Style Prompting for Text-to-SQL](https://arxiv.org/abs/2305.14215)
   <br>Chang-You Tai* , Ziru Chen* , **Tianshu Zhang**, Xiang Deng, Huan Sun. (* equal contribution)
