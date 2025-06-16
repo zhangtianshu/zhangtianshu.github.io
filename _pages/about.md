@@ -9,19 +9,22 @@ redirect_from:
 ---
 Hello!
 
-I am a third-year Ph.D. student in Natural Language Processing group at The Ohio State University. I am fortunate to be advised by Prof. [Huan Sun](http://web.cse.ohio-state.edu/~sun.397/). Previously, I did my internship at IBM Research in 2022. Prior to OSU, I received B.S. in CSE from University of Electronic Science and Technology of China.
+I am a fourth-year Ph.D. student in Natural Language Processing group at The Ohio State University. I am fortunate to be advised by Prof. [Huan Sun](http://web.cse.ohio-state.edu/~sun.397/). Previously, I did my internship at IBM Research in 2022 and Adobe in 2024. Prior to OSU, I received B.S. in CSE from University of Electronic Science and Technology of China.
 
 My primary research lies in the area of natural language processing and machine learning. Specifically:
 
 - **Natural Language Interface**: building advanced natural language interfaces to tables and relational databases (a.k.a. semantic parsing, table QAs).
 - **Learning Paradigm**: instruction tuning and federated learning.
-- **Large Language Models**: (pre-)training, evaluation, analysis and data engineering.
+- **Large Language Models and Agents**: (pre-)training, evaluation, analysis data engineering, and LLM-based agent framework design.
 
 *I'm actively looking for collaborators. Feel free to drop me an email if you are interested in working with me!*
 
 News
 ======
-- 03/2024: 1 paper is accepted at NAACL 2024.
+- 06/2025: 1 paper is accepted at VLDB 2025.
+- 06/2025: 1 paper is accepted at ICML 2025 Workshop WCUA.
+- 05/2024: Excited to start my internship at Adobe (San Jose)!
+- 03/2024: 1 paper is accepted at NAACL 2024 as an oral paper(145/2434=6.0%)!.
 - 11/2023: Check out our new preprint: [TableLlama: Towards Open Large Generalist Models for Tables](https://osu-nlp-group.github.io/TableLlama/).
 - 10/2023: 1 paper is accepted at EMNLP 2023.
 - 07/2023: 1 paper is accepted as a demo paper at SIGDIAL 2023.
@@ -32,6 +35,12 @@ News
 
 Publications
 ======
+- EVOSCHEMA: TOWARDS TEXT-TO-SQL ROBUSTNESS AGAINST SCHEMA EVOLUTION
+  <br>**Tianshu Zhang**, Kun Qian, Siddhartha Sahai, Yuan Tian, Shaddy Garg, Huan Sun, Yunyao Li.
+  <br>VLDB 2025
+- AgentSearchBench: Evaluating Agentic Search with Agent-as-a-Judge
+  <br>Boyu Gou, Zanming Huang, Yuting Ning, Yu Gu, Michael Lin, Botao Yu, Andrei Kopanev, Weijian Qi, Yiheng Shu, Jiaman Wu, Chan Hee Song, Bernal Jimenez Gutierrez, Yifei Li, Zeyi Liao, Hanane Nour Moussa, **Tianshu Zhang**, Jian Xie, Tianci Xue, Shijie Chen, Boyuan Zheng, Kai Zhang, Zhaowei Cai, Viktor Rozgic, Morteza Ziyadi, Huan Sun, Yu Su.
+  <br>ICML 2025 Workshop WCUA 
 - [TableLlama: Towards Open Large Generalist Models for Tables](https://arxiv.org/abs/2311.09206)
   <br>**Tianshu Zhang**, Xiang Yue, Yifei Li, Huan Sun.
   <br>NAACL 2024 (long)
