@@ -35,10 +35,10 @@ News
 
 Publications
 ======
-- EVOSCHEMA: TOWARDS TEXT-TO-SQL ROBUSTNESS AGAINST SCHEMA EVOLUTION
+- [EvoSchema: Towards Text-To-SQL Robustness Against Schema Evolution]()
   <br>**Tianshu Zhang**, Kun Qian, Siddhartha Sahai, Yuan Tian, Shaddy Garg, Huan Sun, Yunyao Li.
   <br>VLDB 2025
-- AgentSearchBench: Evaluating Agentic Search with Agent-as-a-Judge
+- [AgentSearchBench: Evaluating Agentic Search with Agent-as-a-Judge]()
   <br>Boyu Gou, Zanming Huang, Yuting Ning, Yu Gu, Michael Lin, Botao Yu, Andrei Kopanev, Weijian Qi, Yiheng Shu, Jiaman Wu, Chan Hee Song, Bernal Jimenez Gutierrez, Yifei Li, Zeyi Liao, Hanane Nour Moussa, **Tianshu Zhang**, Jian Xie, Tianci Xue, Shijie Chen, Boyuan Zheng, Kai Zhang, Zhaowei Cai, Viktor Rozgic, Morteza Ziyadi, Huan Sun, Yu Su.
   <br>ICML 2025 Workshop WCUA 
 - [TableLlama: Towards Open Large Generalist Models for Tables](https://arxiv.org/abs/2311.09206)
