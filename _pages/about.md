@@ -18,16 +18,21 @@ My primary research lies in the area of natural language processing and machine 
 - **Learning Paradigm**: instruction tuning and federated learning.
 
 
-*I'm actively looking for collaborators. Feel free to drop me an email if you are interested in working with me!*
+*I'm actively looking for a job in industry starting in 2026! Please feel free to reach out if you'd like to discuss potential opportunities.*
 
 
 News
 ======
 - 09/2025: 1 paper is accepted at NeurIPS 2025.
+- 09/2025: 1 paper is accepted at NeurIPS 2025 AI4Science Workshop.
 - 06/2025: 1 paper is accepted at VLDB 2025.
 - 06/2025: 1 paper is accepted at ICML 2025 Workshop WCUA.
+- 02/2025: Give a talk: LLM Agents for Science. (OCWIC 25 AI Research) 
+- 02/2025: Give a talk: TableLlama: Towards Open Large Generalist Models for Tables. (OCWIC 25 AI Research)
+- 02/2025: Give a talk: Unleashing the Potential of Large Language Models for Clinical and Translational Science: Application to Addressing Unmet Social Needs of Patients. (Clinical and Translational Science Institute in OSU)
+- 08/2024: Give a talk: Schema Evolution Adaptive NL2SQL. (Adobe Research Summit) 
 - 05/2024: Excited to start my internship at Adobe (San Jose)!
-- 03/2024: 1 paper is accepted at NAACL 2024 as an oral paper(145/2434=6.0%)!🔥🔥🔥.
+- 03/2024: 1 paper is accepted at NAACL 2024 as an oral paper (145/2434=6.0%)!🔥🔥🔥.
 - 11/2023: Check out our new preprint: [TableLlama: Towards Open Large Generalist Models for Tables](https://osu-nlp-group.github.io/TableLlama/).
 - 10/2023: 1 paper is accepted at EMNLP 2023.
 - 07/2023: 1 paper is accepted as a demo paper at SIGDIAL 2023.
@@ -60,6 +65,9 @@ Publications
 - [Federated Learning for Semantic Parsing: Task Formulation, Evaluation Setup, New Algorithms](https://aclanthology.org/2023.acl-long.678.pdf)
   <br>**Tianshu Zhang**, Changchang Liu, Wei-Han Lee, Yu Su, Huan Sun.
   <br>ACL 2023 (Long)
+- [TACO 2.0: A Task-Oriented Dialogue System with Mixed Initiatives and Multi-Modal Interaction](https://www.amazon.science/alexa-prize/proceedings/taco-2-0-a-task-oriented-dialogue-system-with-mixed-initiatives-and-multi-modal-interaction)
+  <br>Lingbo Mo, Huanli Gong†, Sunit Singh†, Chang-You Tai†, Tianhao Zang†, **Tianshu Zhang**†, Huan Sun. (†in alphabetical order)
+  <br>2st Proceedings of Alexa Prize TaskBot Challenge 2023 (long)
 - [Bootstrapping a User-Centered Task-Oriented Dialogue System](https://arxiv.org/abs/2207.05223) [[Amazon Science]](https://www.amazon.science/alexa-prize/taskbot-challenge/2021) [[OSU CSE]](https://cse.osu.edu/news/2022/06/osu-tacobot-team-won-third-place-honor-inaugural-alexa-prize-taskbot-challenge) [[OSU CoE]](https://engineering.osu.edu/news/2022/07/buckeyes-excel-amazon-alexa-prize-taskbot-challenge) [[OSU TDAI]](https://tdai.osu.edu/news/tdai-professors-and-team-emerge-one-top-performers-inaugural-alexa-prize-taskbot-challenge)
   <br>Shijie Chen* , Ziru Chen* , Xiang Deng†, Ashley Lewis†, Lingbo Mo†, Samuel Stevens†, Zhen Wang†, Xiang Yue†, **Tianshu Zhang**†, Yu Su, Huan Sun. (* equal contribution, † in alphabetical order)
   <br>Alexa Prize Taskbot Challenge 2022 (Long)
